@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+}
+
+.nav-links{
+    display: flex;
+    list-style-type: none;
+    margin-left: 300px;
+   
+}
+
+.nav-center{
+    text-align: center;
+    border-bottom: 1px solid black;
+}
+
+.container{
+    
+    display: flex;
+    justify-content: center;
+}
+
+.container1{
+    text-align: center;
+    margin-top: 16%;
+    border: solid black;
+    
+}
+
+button{
+    border-radius:  5px;
+    background-color: antiquewhite;
+    height: 30px;
+    margin-bottom: 10px;
+    width: 100px;
+}
